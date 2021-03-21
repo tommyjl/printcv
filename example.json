@@ -1,0 +1,80 @@
+{
+  "author": {
+    "name": "Ola Nordmann",
+    "email": "ola.nordmann@email.provider",
+    "address": "123 Fake Street",
+    "github": "githubuser",
+    "linkedin": "linkedinuser"
+  },
+  "summary": "Call me Ishmael. Some years ago—never mind how long precisely—having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world.",
+  "experience": [
+    {
+      "from": "2019 August",
+      "to": "current",
+      "employer": "Facebook",
+      "title": "Software engineer",
+      "items": [
+        "Made a lot of money",
+        "Made a lot of unethical choices"
+      ]
+    },
+    {
+      "from": "2018 March",
+      "to": "2019 August",
+      "employer": "Google",
+      "title": "Software engineer",
+      "items": [
+        "Made a lot of money",
+        "Made a lot of unethical choices"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "from": "2015",
+      "to": "2017",
+      "degree": "MSc, Computer Science",
+      "institution": "Random University",
+      "items": [
+        "Took courses A, B, and C",
+        "Invented an entirely new branch of computer science"
+      ]
+    },
+    {
+      "from": "2011",
+      "to": "2014",
+      "degree": "BSc, Computer Engineering",
+      "institution": "University of Awesomeness",
+      "items": [
+        "Took courses A, B, and C",
+        "Did a thing"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Languages",
+      "items": ["English", "Norwegian"]
+    },
+    {
+      "category": "Programming languages",
+      "items": ["C#", "TypeScript", "JavaScript", "Rust", "Go"]
+    },
+    {
+      "category": "Databases",
+      "items": ["SQL", "Postgres", "MySQL", "SQLServer"]
+    },
+    {
+      "category": "Message queues",
+      "items": ["Kafka", "RabbitMQ"]
+    },
+    {
+      "category": "Clouds",
+      "items": ["Azure", "Digital Ocean"]
+    },
+    {
+      "category": "Foo",
+      "items": ["Foo", "Bar", "Baz", "Foo", "Bar", "Baz", "Foo", "Bar", "Baz", "Foo", "Bar", "Baz", "Foo", "Bar", "Baz", "Foo", "Bar", "Baz", "Foo", "Bar", "Baz", "Foo", "Bar", "Baz", "Foo", "Bar", "Baz", "Foo", "Bar", "Baz", "Foo", "Bar", "Baz", "Foo", "Bar", "Baz"]
+    }
+  ]
+}
